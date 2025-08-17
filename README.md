@@ -11,7 +11,6 @@
 ✅ **Hotel Listings Management** – Authenticated users can add, update, and delete listings.  
 ✅ **Feedback System** – Only the author can delete their own reviews.  
 ✅ **MVC Architecture** – Ensures maintainability and scalability.  
-✅ **Deployment on Render** – Multi-cloud hosting for reliability.  
 
 ## 🛠️ Tech Stack  
 - **Backend:** Node.js, Express.js, MongoDB  
